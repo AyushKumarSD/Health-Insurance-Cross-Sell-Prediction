@@ -1,8 +1,6 @@
 # Capstone-Project-HEALTH-INSURANCE-CROSS-SELL-PREDICTION---Classification
 
 
-This project is a part of the [AlmaBetter Premium Program](https://www.almabetter.com/) , Banglore/Bengaluru ,Karnataka , India
-
 #### -- Project Status: [Completed]
 
 ## Project Summary :
@@ -137,5 +135,5 @@ Miscellaneous :
 	
 
 Created by- 
-Mohd Sharik - livisliquoro@gmail.com
+Ayush Kumar - ayushkr.work@gmail.com
 
